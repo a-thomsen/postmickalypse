@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/postmickalypse/static/css/main.dd9f9665.chunk.css",
-    "main.js": "/postmickalypse/static/js/main.eddb9a1d.chunk.js",
-    "main.js.map": "/postmickalypse/static/js/main.eddb9a1d.chunk.js.map",
+    "main.css": "/postmickalypse/static/css/main.92ec1f02.chunk.css",
+    "main.js": "/postmickalypse/static/js/main.83296ec7.chunk.js",
+    "main.js.map": "/postmickalypse/static/js/main.83296ec7.chunk.js.map",
     "runtime-main.js": "/postmickalypse/static/js/runtime-main.7496f723.js",
     "runtime-main.js.map": "/postmickalypse/static/js/runtime-main.7496f723.js.map",
     "static/js/2.87cb706d.chunk.js": "/postmickalypse/static/js/2.87cb706d.chunk.js",
     "static/js/2.87cb706d.chunk.js.map": "/postmickalypse/static/js/2.87cb706d.chunk.js.map",
     "index.html": "/postmickalypse/index.html",
-    "static/css/main.dd9f9665.chunk.css.map": "/postmickalypse/static/css/main.dd9f9665.chunk.css.map",
+    "static/css/main.92ec1f02.chunk.css.map": "/postmickalypse/static/css/main.92ec1f02.chunk.css.map",
     "static/js/2.87cb706d.chunk.js.LICENSE.txt": "/postmickalypse/static/js/2.87cb706d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7496f723.js",
     "static/js/2.87cb706d.chunk.js",
-    "static/css/main.dd9f9665.chunk.css",
-    "static/js/main.eddb9a1d.chunk.js"
+    "static/css/main.92ec1f02.chunk.css",
+    "static/js/main.83296ec7.chunk.js"
   ]
 }
